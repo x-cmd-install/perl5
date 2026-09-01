@@ -1,0 +1,69 @@
+about:
+  description: 🐪 The Perl programming language
+  license: NOASSERTION
+  homepage: https://dev.perl.org/perl5/
+  head: 94b79ff
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-01T05:11:03Z
+timeline:
+  created: 2013-02-13
+  lastCommit: 2026-08-31
+  lastRelease: ?
+popularity:
+  star: 2320
+  watcher: 26
+  fork: 641
+  release: 0
+  contributor: 575
+  pullRequest: 1096
+  issue: 19700
+language:
+  Perl: 29293956
+  C: 11725423
+  Shell: 1426086
+  XS: 1244651
+  DIGITAL Command Language: 223666
+  Makefile: 138361
+  Yacc: 54135
+  Roff: 26074
+  Prolog: 24816
+  Pro*C: 6272
+  Batchfile: 2696
+  TeX: 1708
+  DTrace: 491
+  Emacs Lisp: 312
+totalLine: 44168647
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 72
+    openPR: 29
+    closedIssue: 12
+    openIssue: 14
+    commit: 132
+  last90d:
+    since: 2026-06-03
+    release: 0
+    mergedPR: 182
+    openPR: 40
+    closedIssue: 55
+    openIssue: 35
+    commit: 507
+  last180d:
+    since: 2026-03-05
+    release: 0
+    mergedPR: 299
+    openPR: 54
+    closedIssue: 84
+    openIssue: 48
+    commit: 845
+  last360d:
+    since: 2025-09-06
+    release: 0
+    mergedPR: 650
+    openPR: 74
+    closedIssue: 199
+    openIssue: 90
+    commit: 2150
