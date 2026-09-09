@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:28:10Z
+  collectedAt: 2026-09-09T20:15:21Z
 timeline:
   created: 2013-02-13
   lastCommit: 2026-09-08
@@ -96,7 +96,7 @@ total:
   commit: 85269
 ---
 path: /home/runner/.x-repo/github.com/Perl/perl5
-collectedAt: 2026-09-09T06:30:39Z
+collectedAt: 2026-09-09T20:17:38Z
 loc:
   Bitbake:
     code: 499023
