@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:15:40Z
+  collectedAt: 2026-09-11T18:41:18Z
 timeline:
   created: 2013-02-13
   lastCommit: 2026-09-11
@@ -17,10 +17,10 @@ timeline:
 popularity:
   star: 2324
   watcher: 25
-  fork: 642
+  fork: 641
   release: 0
   contributor: 569
-  pullRequest: 5086
+  pullRequest: 5088
   issue: 19706
 language:
   Perl: 29353023
@@ -43,7 +43,7 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 57
-    openPR: 25
+    openPR: 27
     closedIssue: 13
     openIssue: 11
     commit: 122
@@ -51,7 +51,7 @@ recent:
     since: 2026-07-13
     release: 0
     mergedPR: 134
-    openPR: 38
+    openPR: 40
     closedIssue: 44
     openIssue: 23
     commit: 358
@@ -59,7 +59,7 @@ recent:
     since: 2026-06-13
     release: 0
     mergedPR: 185
-    openPR: 43
+    openPR: 45
     closedIssue: 60
     openIssue: 30
     commit: 512
@@ -67,7 +67,7 @@ recent:
     since: 2026-03-15
     release: 0
     mergedPR: 297
-    openPR: 55
+    openPR: 57
     closedIssue: 86
     openIssue: 44
     commit: 845
@@ -75,7 +75,7 @@ recent:
     since: 2025-09-16
     release: 0
     mergedPR: 649
-    openPR: 76
+    openPR: 78
     closedIssue: 202
     openIssue: 86
     commit: 2140
@@ -83,20 +83,20 @@ recent:
     since: 2024-09-21
     release: 0
     mergedPR: 1290
-    openPR: 137
+    openPR: 139
     closedIssue: 421
     openIssue: 168
     commit: 4476
 total:
   release: 0
   mergedPR: 3986
-  openPR: 176
+  openPR: 178
   closedIssue: 17517
   openIssue: 2189
   commit: 85274
 ---
 path: /home/runner/.x-repo/github.com/Perl/perl5
-collectedAt: 2026-09-11T06:17:57Z
+collectedAt: 2026-09-11T18:43:17Z
 loc:
   Bitbake:
     code: 499023
