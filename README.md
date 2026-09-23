@@ -4,7 +4,7 @@
 
 🐪 The Perl programming language
 
-[![x-cmd/install — perl5 Code Quality Monitoring Repo Card](https://repo.x-cmd.io/perl5.svg)](https://x-cmd.com/install/perl5)
+[![x-cmd/install — perl5 Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/perl5.svg)](https://x-cmd.com/install/perl5)
 
 ## Install
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,326 · **Forks**: 646 · **Open issues**: 19,718 · **Contributors**: 569
+- **Stars**: 2,326 · **Forks**: 646 · **Open issues**: 19,720 · **Contributors**: 569
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 4024 · **Open PRs**: 170 · **Closed issues**: 17530 · **Open issues**: 2188 · **Commits**: 85363
+- **Releases**: 0 · **Merged PRs**: 4024 · **Open PRs**: 171 · **Closed issues**: 17530 · **Open issues**: 2190 · **Commits**: 85363
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 52 | 22 | 13 | 14 | 89 |
-| last60d | 2026-07-24 | 0 | 146 | 33 | 34 | 23 | 319 |
-| 90d | 2026-06-24 | 0 | 197 | 39 | 62 | 34 | 524 |
-| last180d | 2026-03-26 | 0 | 312 | 50 | 85 | 46 | 858 |
-| 360d | 2025-09-27 | 0 | 638 | 70 | 202 | 90 | 2097 |
-| last720d | 2024-10-02 | 0 | 1312 | 131 | 426 | 170 | 4547 |
+| 30d | 2026-08-24 | 0 | 51 | 23 | 13 | 16 | 89 |
+| last60d | 2026-07-25 | 0 | 145 | 34 | 34 | 25 | 319 |
+| 90d | 2026-06-25 | 0 | 195 | 40 | 61 | 36 | 524 |
+| last180d | 2026-03-27 | 0 | 312 | 51 | 85 | 48 | 858 |
+| 360d | 2025-09-28 | 0 | 636 | 71 | 202 | 92 | 2097 |
+| last720d | 2024-10-03 | 0 | 1312 | 132 | 426 | 172 | 4530 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for perl5 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:34:26Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:52:07Z._
