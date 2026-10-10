@@ -20,7 +20,7 @@ Total: **1,262,548** lines of code across **1897** files in the top 5 languages.
 |----------|-----:|---------:|-------:|------:|
 | Bitbake | 509,083 | 2,826 | 4,861 | 22 |
 | Perl | 454,309 | 92,176 | 84,051 | 1515 |
-| C | 182,485 | 51,249 | 27,858 | 116 |
+| C | 182,485 | 51,250 | 27,859 | 116 |
 | CHeader | 91,097 | 25,119 | 11,014 | 136 |
 | Sh | 15,616 | 4,701 | 2,132 | 108 |
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,339 · **Forks**: 646 · **Open issues**: 19,741 · **Contributors**: 572
+- **Stars**: 2,339 · **Forks**: 647 · **Open issues**: 19,742 · **Contributors**: 572
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 4068 · **Open PRs**: 171 · **Closed issues**: 17545 · **Open issues**: 2196 · **Commits**: 85478
+- **Releases**: 0 · **Merged PRs**: 4070 · **Open PRs**: 172 · **Closed issues**: 17546 · **Open issues**: 2196 · **Commits**: 85482
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 65 | 18 | 8 | 28 | 141 |
-| last60d | 2026-08-10 | 0 | 147 | 29 | 28 | 36 | 318 |
-| 90d | 2026-07-11 | 0 | 216 | 38 | 58 | 45 | 547 |
-| last180d | 2026-04-12 | 0 | 334 | 48 | 87 | 60 | 890 |
-| 360d | 2025-10-14 | 0 | 641 | 70 | 191 | 103 | 2081 |
-| last720d | 2024-10-19 | 0 | 1338 | 124 | 432 | 179 | 4578 |
+| 30d | 2026-09-10 | 0 | 64 | 19 | 9 | 27 | 145 |
+| last60d | 2026-08-11 | 0 | 143 | 29 | 27 | 35 | 322 |
+| 90d | 2026-07-12 | 0 | 217 | 39 | 58 | 45 | 551 |
+| last180d | 2026-04-13 | 0 | 331 | 49 | 88 | 60 | 894 |
+| 360d | 2025-10-15 | 0 | 642 | 70 | 192 | 103 | 2085 |
+| last720d | 2024-10-20 | 0 | 1337 | 124 | 433 | 179 | 4572 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for perl5 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T07:24:48Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:57:18Z._
