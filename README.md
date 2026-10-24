@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,348 · **Forks**: 649 · **Open issues**: 19,764 · **Contributors**: 574
+- **Stars**: 2,348 · **Forks**: 649 · **Open issues**: 19,765 · **Contributors**: 574
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 4103 · **Open PRs**: 176 · **Closed issues**: 17571 · **Open issues**: 2193 · **Commits**: 85571
+- **Releases**: 0 · **Merged PRs**: 4105 · **Open PRs**: 177 · **Closed issues**: 17572 · **Open issues**: 2193 · **Commits**: 85576
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 65 | 21 | 17 | 26 | 134 |
-| last60d | 2026-08-24 | 0 | 126 | 33 | 33 | 40 | 282 |
-| 90d | 2026-07-25 | 0 | 222 | 41 | 55 | 48 | 521 |
-| last180d | 2026-04-26 | 0 | 348 | 51 | 100 | 64 | 919 |
-| 360d | 2025-10-28 | 0 | 661 | 74 | 194 | 110 | 2010 |
-| last720d | 2024-11-02 | 0 | 1355 | 124 | 433 | 187 | 4596 |
+| 30d | 2026-09-24 | 0 | 66 | 22 | 18 | 26 | 139 |
+| last60d | 2026-08-25 | 0 | 126 | 33 | 33 | 39 | 287 |
+| 90d | 2026-07-26 | 0 | 224 | 42 | 53 | 48 | 526 |
+| last180d | 2026-04-27 | 0 | 349 | 52 | 101 | 64 | 924 |
+| 360d | 2025-10-29 | 0 | 661 | 75 | 195 | 110 | 2015 |
+| last720d | 2024-11-03 | 0 | 1356 | 125 | 434 | 187 | 4601 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for perl5 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T06:00:34Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:55:09Z._
