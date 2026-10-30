@@ -2,28 +2,28 @@ about:
   description: "🐪 The Perl programming language"
   license: NOASSERTION
   homepage: https://dev.perl.org/perl5/
-  head: 1d8c04d
+  head: b3e8681
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-29T07:14:53Z
+  collectedAt: 2026-10-30T07:04:59Z
 timeline:
   created: 2013-02-13
-  lastCommit: 2026-10-28
+  lastCommit: 2026-10-29
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 2352
+  star: 2354
   watcher: 28
   fork: 651
   release: 0
   contributor: 574
-  pullRequest: 5231
-  issue: 19767
+  pullRequest: 5235
+  issue: 19769
 language:
-  Perl: 29440090
+  Perl: 29458941
   C: 11847388
   Shell: 1434529
   XS: 1244690
@@ -37,66 +37,66 @@ language:
   TeX: 1708
   DTrace: 491
   Emacs Lisp: 312
-totalBytes: 44448010
+totalBytes: 44466861
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
-    mergedPR: 73
-    openPR: 22
-    closedIssue: 18
+    mergedPR: 70
+    openPR: 23
+    closedIssue: 19
     openIssue: 25
-    commit: 173
+    commit: 176
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
-    mergedPR: 133
-    openPR: 31
-    closedIssue: 30
-    openIssue: 39
-    commit: 318
+    mergedPR: 131
+    openPR: 33
+    closedIssue: 29
+    openIssue: 40
+    commit: 321
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
-    mergedPR: 218
-    openPR: 41
-    closedIssue: 47
-    openIssue: 46
-    commit: 546
+    mergedPR: 220
+    openPR: 43
+    closedIssue: 48
+    openIssue: 47
+    commit: 549
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
-    mergedPR: 360
-    openPR: 51
-    closedIssue: 102
-    openIssue: 64
-    commit: 968
+    mergedPR: 362
+    openPR: 53
+    closedIssue: 103
+    openIssue: 65
+    commit: 971
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
-    mergedPR: 668
-    openPR: 74
-    closedIssue: 196
-    openIssue: 110
-    commit: 2033
+    mergedPR: 664
+    openPR: 76
+    closedIssue: 197
+    openIssue: 111
+    commit: 2036
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 0
-    mergedPR: 1366
-    openPR: 124
+    mergedPR: 1368
+    openPR: 126
     closedIssue: 436
-    openIssue: 187
-    commit: 4645
+    openIssue: 188
+    commit: 4647
 total:
   release: 0
-  mergedPR: 4122
-  openPR: 176
-  closedIssue: 17576
-  openIssue: 2191
-  commit: 85629
+  mergedPR: 4124
+  openPR: 178
+  closedIssue: 17577
+  openIssue: 2192
+  commit: 85631
 ---
 path: /home/runner/.x-repo/github.com/Perl/perl5
-collectedAt: 2026-10-29T07:17:06Z
+collectedAt: 2026-10-30T07:06:40Z
 loc:
   Bitbake:
     code: 509113
@@ -104,9 +104,9 @@ loc:
     blanks: 4863
     files: 22
   Perl:
-    code: 454755
-    comments: 92239
-    blanks: 84139
+    code: 454834
+    comments: 92242
+    blanks: 84162
     files: 1515
   C:
     code: 170899
@@ -179,9 +179,9 @@ loc:
     blanks: 4791
     files: 203
 total:
-  code: 1251317
-  comments: 589825
-  blanks: 134746
+  code: 1251396
+  comments: 589828
+  blanks: 134769
   files: 2231
 ---
 date: "2026-10-26"
