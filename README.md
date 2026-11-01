@@ -14,14 +14,14 @@ x install perl5
 
 ## Code insight
 
-Total: **1,253,059** lines of code across **1898** files in the top 5 languages.
+Total: **1,253,278** lines of code across **1898** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Bitbake | 509,113 | 2,826 | 4,863 | 22 |
 | Perl | 455,840 | 92,252 | 84,389 | 1517 |
-| C | 171,485 | 50,369 | 27,028 | 115 |
-| CHeader | 90,906 | 25,795 | 11,034 | 135 |
+| C | 171,466 | 50,369 | 27,028 | 115 |
+| CHeader | 91,144 | 25,800 | 11,071 | 135 |
 | Sh | 15,623 | 4,723 | 2,134 | 109 |
 
 ## OpenSSF Scorecard
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,354 · **Forks**: 651 · **Open issues**: 19,770 · **Contributors**: 574
+- **Stars**: 2,354 · **Forks**: 652 · **Open issues**: 19,770 · **Contributors**: 574
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 4128 · **Open PRs**: 175 · **Closed issues**: 17580 · **Open issues**: 2190 · **Commits**: 85654
+- **Releases**: 0 · **Merged PRs**: 4131 · **Open PRs**: 174 · **Closed issues**: 17580 · **Open issues**: 2190 · **Commits**: 85671
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 72 | 20 | 22 | 21 | 199 |
-| last60d | 2026-09-01 | 0 | 133 | 29 | 31 | 38 | 344 |
-| 90d | 2026-08-02 | 0 | 223 | 39 | 51 | 45 | 572 |
-| last180d | 2026-05-04 | 0 | 363 | 50 | 106 | 63 | 994 |
-| 360d | 2025-11-05 | 0 | 668 | 73 | 200 | 109 | 2059 |
-| last720d | 2024-11-10 | 0 | 1371 | 123 | 439 | 186 | 4670 |
+| 30d | 2026-10-02 | 0 | 72 | 19 | 22 | 18 | 148 |
+| last60d | 2026-09-02 | 0 | 135 | 28 | 31 | 37 | 342 |
+| 90d | 2026-08-03 | 0 | 220 | 38 | 50 | 45 | 521 |
+| last180d | 2026-05-05 | 0 | 365 | 49 | 105 | 63 | 997 |
+| 360d | 2025-11-06 | 0 | 671 | 72 | 200 | 109 | 2040 |
+| last720d | 2024-11-11 | 0 | 1373 | 122 | 439 | 186 | 4677 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for perl5 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:56:10Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:22:03Z._
