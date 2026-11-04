@@ -26,7 +26,7 @@ Total: **1,253,417** lines of code across **1898** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.6 / 10**
+Overall score: **6.8 / 10**
 
 Lowest-scoring checks:
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,354 · **Forks**: 652 · **Open issues**: 19,771 · **Contributors**: 575
+- **Stars**: 2,353 · **Forks**: 652 · **Open issues**: 19,771 · **Contributors**: 575
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 4138 · **Open PRs**: 167 · **Closed issues**: 17584 · **Open issues**: 2187 · **Commits**: 85686
+- **Releases**: 0 · **Merged PRs**: 4138 · **Open PRs**: 168 · **Closed issues**: 17584 · **Open issues**: 2187 · **Commits**: 85686
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 71 | 12 | 25 | 15 | 161 |
-| last60d | 2026-09-04 | 0 | 139 | 21 | 33 | 35 | 357 |
-| 90d | 2026-08-05 | 0 | 221 | 29 | 52 | 43 | 536 |
-| last180d | 2026-05-07 | 0 | 370 | 42 | 108 | 61 | 1012 |
-| 360d | 2025-11-08 | 0 | 676 | 65 | 202 | 106 | 2055 |
-| last720d | 2024-11-13 | 0 | 1377 | 115 | 431 | 183 | 4684 |
+| 30d | 2026-10-05 | 0 | 70 | 13 | 23 | 15 | 161 |
+| last60d | 2026-09-05 | 0 | 138 | 20 | 33 | 34 | 357 |
+| 90d | 2026-08-06 | 0 | 221 | 29 | 52 | 43 | 536 |
+| last180d | 2026-05-08 | 0 | 369 | 43 | 108 | 61 | 1012 |
+| 360d | 2025-11-09 | 0 | 675 | 66 | 202 | 106 | 2055 |
+| last720d | 2024-11-14 | 0 | 1376 | 116 | 431 | 183 | 4684 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for perl5 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:18:33Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:48:55Z._
