@@ -14,13 +14,13 @@ x install perl5
 
 ## Code insight
 
-Total: **1,253,509** lines of code across **1898** files in the top 5 languages.
+Total: **1,253,512** lines of code across **1898** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Bitbake | 509,184 | 2,826 | 4,884 | 22 |
 | Perl | 455,851 | 92,252 | 84,389 | 1517 |
-| C | 171,583 | 50,457 | 27,043 | 115 |
+| C | 171,586 | 50,457 | 27,043 | 115 |
 | CHeader | 91,176 | 25,834 | 11,083 | 135 |
 | Sh | 15,623 | 4,723 | 2,134 | 109 |
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,358 · **Forks**: 658 · **Open issues**: 19,774 · **Contributors**: 575
+- **Stars**: 2,359 · **Forks**: 658 · **Open issues**: 19,774 · **Contributors**: 575
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 4143 · **Open PRs**: 170 · **Closed issues**: 17588 · **Open issues**: 2186 · **Commits**: 85702
+- **Releases**: 0 · **Merged PRs**: 4146 · **Open PRs**: 170 · **Closed issues**: 17588 · **Open issues**: 2186 · **Commits**: 85705
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 47 | 17 | 11 | 7 | 119 |
-| last60d | 2026-09-12 | 0 | 132 | 22 | 36 | 31 | 322 |
-| 90d | 2026-08-13 | 0 | 202 | 31 | 52 | 40 | 498 |
-| last180d | 2026-05-15 | 0 | 365 | 45 | 107 | 60 | 1007 |
-| 360d | 2025-11-16 | 0 | 667 | 68 | 198 | 90 | 2049 |
-| last720d | 2024-11-21 | 0 | 1363 | 118 | 431 | 182 | 4618 |
+| 30d | 2026-10-13 | 0 | 47 | 17 | 10 | 7 | 122 |
+| last60d | 2026-09-13 | 0 | 132 | 22 | 35 | 31 | 325 |
+| 90d | 2026-08-14 | 0 | 202 | 31 | 51 | 40 | 501 |
+| last180d | 2026-05-16 | 0 | 367 | 45 | 107 | 60 | 1010 |
+| 360d | 2025-11-17 | 0 | 668 | 68 | 198 | 89 | 2052 |
+| last720d | 2024-11-22 | 0 | 1365 | 118 | 431 | 182 | 4616 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for perl5 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:25:22Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T09:13:09Z._
