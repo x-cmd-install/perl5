@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:38:51Z
+  collectedAt: 2026-11-28T09:32:29Z
 timeline:
   created: 2013-02-13
   lastCommit: 2026-11-26
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 2365
+  star: 2366
   watcher: 28
   fork: 664
   release: 0
   contributor: 576
-  pullRequest: 5300
+  pullRequest: 5303
   issue: 19805
 language:
   Perl: 29590013
@@ -40,63 +40,63 @@ language:
 totalBytes: 44694230
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
-    mergedPR: 41
-    openPR: 22
-    closedIssue: 15
-    openIssue: 23
+    mergedPR: 38
+    openPR: 25
+    closedIssue: 14
+    openIssue: 22
     commit: 90
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
-    mergedPR: 129
-    openPR: 31
+    mergedPR: 125
+    openPR: 34
     closedIssue: 38
-    openIssue: 44
+    openIssue: 43
     commit: 350
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
-    mergedPR: 187
-    openPR: 38
-    closedIssue: 52
+    mergedPR: 186
+    openPR: 41
+    closedIssue: 51
     openIssue: 56
     commit: 502
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 382
-    openPR: 56
+    openPR: 58
     closedIssue: 115
     openIssue: 81
     commit: 1064
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
-    mergedPR: 679
-    openPR: 78
+    mergedPR: 675
+    openPR: 81
     closedIssue: 198
     openIssue: 109
     commit: 2087
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
-    mergedPR: 1355
-    openPR: 128
+    mergedPR: 1354
+    openPR: 131
     closedIssue: 432
     openIssue: 193
-    commit: 4606
+    commit: 4605
 total:
   release: 0
   mergedPR: 4176
-  openPR: 181
+  openPR: 184
   closedIssue: 17599
   openIssue: 2206
   commit: 85801
 ---
 path: /home/runner/.x-repo/github.com/Perl/perl5
-collectedAt: 2026-11-27T10:44:15Z
+collectedAt: 2026-11-28T09:34:12Z
 loc:
   Bitbake:
     code: 509184
